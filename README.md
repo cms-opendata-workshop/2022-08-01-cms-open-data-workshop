@@ -1,7 +1,7 @@
 [![Website](https://github.com/carpentries/workshop-template/actions/workflows/website.yml/badge.svg)](https://github.com/carpentries/workshop-template/actions/workflows/website.yml)
 
 
-# CMS Open Data Workshop 2021
+# CMS Open Data Workshop 2022
 
 This is the main repository for the [CMS Open Data Workshop 2022](https://cms-opendata-workshop.github.io/2022-08-01-cms-open-data-workshop/) event.  The workshop is based on  The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
 [Library Carpentry][lc-site]'s) templates for creating websites for workshops.  In particular, we followed the instructions in the official [workshop template repository](https://github.com/carpentries/workshop-template) and used the "template" function to make a copy and customize it.  As it is explained there, it builds automatically on Github.
@@ -129,7 +129,7 @@ In order to view your changes once you are done editing, if you have bundler ins
 ```shell
 make serve
 ```
-and go to <http://127.0.0.0:4000> (or to whatever address the execution of the last command points you to) to preview your site.
+and point your browser to `http://127.0.0.0:4000` (or to whatever address the execution of the last command points you to) to preview your site.
 
 Before pushing your changes to your repository, we recommend that you also check for any potential
 issues with your site by running:
