@@ -333,6 +333,8 @@ of code below the Schedule `<h2>` header below with
 {% endcomment %}
 
 <h2 id="schedule">Schedule</h2>
+<strong>All times are in CET (Central European Time)</strong><br>
+Help is available through our <a href="https://mattermost.web.cern.ch/cmsodws2022/channels/town-square ">Mattermost channel</a> and/or the <a href="https://opendata-forum.cern.ch/c/cms/6">CMS Open Data Forum.</a>
 
 {% if site.carpentry == "cms" %}
 {% include swc/schedule.html %}
