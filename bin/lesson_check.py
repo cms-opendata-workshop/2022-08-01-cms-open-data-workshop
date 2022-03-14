@@ -210,7 +210,7 @@ def check_config(reporter):
     reporter.check_field(CONFIG["config_file"], 'configuration',
                          CONFIG, 'kind', 'lesson')
     reporter.check_field(CONFIG["config_file"], 'configuration',
-                         CONFIG, 'carpentry', ('swc', 'dc', 'lc', 'cp', 'incubator'))
+                         CONFIG, 'carpentry', ('swc', 'dc', 'lc', 'cp', 'incubator','cms'))
     reporter.check_field(CONFIG["config_file"], 'configuration', CONFIG, 'title')
     reporter.check_field(CONFIG["config_file"], 'configuration', CONFIG, 'email')
 
