@@ -40,4 +40,5 @@ Please subscribe to these mattermost channels for support and discussions during
 * [Luminosity lesson](https://mattermost.web.cern.ch/cmsodws2022/channels/trigger-lesson)
 * [Run 1 analysis lesson](https://mattermost.web.cern.ch/cmsodws2022/channels/run-i-analysis-lesson)
 * [Run 2 analysis lesson](https://mattermost.web.cern.ch/cmsodws2022/channels/run-ii-analysis-lesson)
+* [Cloud computing lesson](https://mattermost.web.cern.ch/cmsodws2022/channels/cloud-computing-lesson)
 * [Run 2 analysis with ADL lesson](https://mattermost.web.cern.ch/cmsodws2022/channels/run-ii-analysis-adl-lesson)
