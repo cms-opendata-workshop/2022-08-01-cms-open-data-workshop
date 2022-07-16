@@ -172,7 +172,7 @@ Modify the block below if there are any special requirements.
 <p id="requirements">
   <strong>Requirements:</strong>
   Participants must bring a laptop with a
-    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.  They should have a working virtual machine or Docker container environment as listed in the pre-exercises section.
+    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a working CMS Open Data Docker container environment as listed in the pre-exercises section.
 </p>
 
 {% comment %}
